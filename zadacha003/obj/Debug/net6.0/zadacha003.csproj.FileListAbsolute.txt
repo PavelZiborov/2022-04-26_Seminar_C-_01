@@ -1,0 +1,15 @@
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.csproj.AssemblyReference.cache
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.AssemblyInfoInputs.cache
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.AssemblyInfo.cs
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.csproj.CoreCompileInputs.cache
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/bin/Debug/net6.0/zadacha003
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/bin/Debug/net6.0/zadacha003.deps.json
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/bin/Debug/net6.0/zadacha003.runtimeconfig.json
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/bin/Debug/net6.0/zadacha003.dll
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/bin/Debug/net6.0/zadacha003.pdb
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.dll
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/refint/zadacha003.dll
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.pdb
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/zadacha003.genruntimeconfig.cache
+/Users/pavel/Desktop/2022-04-25_C#_seminar/zadacha003/obj/Debug/net6.0/ref/zadacha003.dll
