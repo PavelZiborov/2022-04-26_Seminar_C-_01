@@ -11,5 +11,12 @@ int N = Convert.ToInt32(Console.ReadLine());
 
 for (int i = -N; i <= N; i++)
 {
-    Console.WriteLine(i);
+    if(i != N)
+    {
+        Console.Write(i+", ");
+    }
+    else
+    {
+        Console.Write(i+".");
+    }
 }
